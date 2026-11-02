@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
+models/
+results/
+.env*
+*.log
+*.sqlite3*
+*.joblib
